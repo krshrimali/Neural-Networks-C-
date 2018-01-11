@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++14 -g   CMakeFiles/cpp.dir/src/main.cpp.o CMakeFiles/cpp.dir/src/Neuron.cpp.o  -o cpp -rdynamic 
