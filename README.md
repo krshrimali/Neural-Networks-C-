@@ -1,4 +1,4 @@
-# Neural-Networks-C-
+# Neural-Networks-using-C++
 Implementation of Neural Networks in C++
 [From Live Coding Sessions (link below)]
 1) Resources:
