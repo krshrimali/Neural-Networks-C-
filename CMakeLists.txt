@@ -10,4 +10,5 @@ add_executable(
   openann
   src/main.cpp
   src/Neuron.cpp
+  src/Matrix.cpp
 )

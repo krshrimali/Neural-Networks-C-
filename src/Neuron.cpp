@@ -1,6 +1,11 @@
 #include "../include/Neuron.hpp"
 #include <cmath>
 
+void Neuron::setVal(double val) {
+  this->val = val;
+  activate();
+  derive();
+}
 Neuron::Neuron(double val) {
   this->val = val;
   activate();

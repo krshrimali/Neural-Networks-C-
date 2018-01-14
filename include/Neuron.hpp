@@ -9,6 +9,7 @@ public:
   // constructor
   Neuron(double val);
 
+  void setVal(double val);
   // f(x) = x/(1 + |x|) -- fast sigmoid function
   void activate();
 
